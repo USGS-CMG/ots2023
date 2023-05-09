@@ -1,2 +1,4 @@
 *.nc
 *.cdf
+*cfcheck.txt
+.ipynb_checkpoints/
